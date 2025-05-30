@@ -40,10 +40,10 @@
 
 ```
 LogCentral/
-├── infra         # 
-├── backend       # 
-├── frontend      # 
-└── docs          # 프로젝트 문서 및 가이드
+├── log-central-infra         # 
+├── log-central-front       # 
+├── log-central-back      # 
+└── README          # 프로젝트 문서 및 가이드
 ```
 
 ---
